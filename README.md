@@ -8,6 +8,8 @@
 ![Codex](https://img.shields.io/badge/Codex-Supported-222222?style=flat-square)
 [![由真格 Token Grant 资助](https://img.shields.io/static/v1?label=%E7%94%B1%E7%9C%9F%E6%A0%BC%20Token%20Grant&message=%E8%B5%84%E5%8A%A9&color=FF4D00&style=flat-square)](https://zhenfund.feishu.cn/share/base/form/shrcn1lAANF659o7EpWnxlR1VOh?sessionid=)
 ![360 安全龙虾金牌赞助](https://img.shields.io/static/v1?label=360%E5%AE%89%E5%85%A8%E9%BE%99%E8%99%BE&message=%E9%87%91%E7%89%8C%E8%B5%9E%E5%8A%A9&color=1677FF&style=flat-square)
+![Kimi work 金牌赞助](https://img.shields.io/static/v1?label=Kimi%20work&message=%E9%87%91%E7%89%8C%E8%B5%9E%E5%8A%A9&color=111111&style=flat-square)
+![Cola Skill 金牌赞助](https://img.shields.io/static/v1?label=Cola%20Skill&message=%E9%87%91%E7%89%8C%E8%B5%9E%E5%8A%A9&color=E4353F&style=flat-square)
 
 > 🌏 **English version: [README.en.md](./README.en.md)**
 
@@ -64,10 +66,20 @@ npx skills add https://github.com/op7418/guizang-ppt-skill --skill guizang-ppt-s
 ## 赞助与支持
 
 <a href="./SPONSORS.md">
-  <img src="https://github.com/user-attachments/assets/5b0c22c8-aff4-4219-900d-6af8604c57a8" alt="360 安全龙虾金牌赞助" width="100%">
+  <img src="https://github.com/user-attachments/assets/81138fad-31b9-49ab-8e38-23b2bc48edc4" alt="360 安全龙虾 / Kimi work / Cola Skill 金牌赞助" width="100%">
 </a>
 
-Guizang PPT Skill 的持续迭代获得 **360 安全龙虾** 金牌赞助和 [真格 Token Grant](https://zhenfund.feishu.cn/share/base/form/shrcn1lAANF659o7EpWnxlR1VOh?sessionid=) 支持。更多信息见 [SPONSORS.md](./SPONSORS.md)。
+Guizang PPT Skill 的持续迭代获得 **360 安全龙虾**、**Kimi work**、**Cola Skill** 金牌赞助和 [真格 Token Grant](https://zhenfund.feishu.cn/share/base/form/shrcn1lAANF659o7EpWnxlR1VOh?sessionid=) 支持。更多信息见 [SPONSORS.md](./SPONSORS.md)。
+
+### 在其他地方使用归藏 PPT Skill
+
+除了 Claude Code / Codex,也可以在这些平台使用归藏 PPT Skill:
+
+| 渠道 | 链接 |
+|------|------|
+| 360 安全龙虾 | [claw.360.cn](https://claw.360.cn/claw?vm_id=p19c1be5d7bed40bcb857ec4a9c785b69&target_url=https%3A%2F%2Fp19c1be5d7bed40bcb857ec4a9c785b69.claw.360.cn%2Fagents) |
+| Cola Skill | [colaskill.com/guizang-ppt-skill](https://colaskill.com/guizang-ppt-skill/) |
+| Kimi work | [kimi.com](https://www.kimi.com/zh-cn/products/kimi-work)（安装后在 Skill 商店搜索 guizang ppt skill） |
 
 ## 效果
 
